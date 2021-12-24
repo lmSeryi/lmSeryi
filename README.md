@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Sergio
+- 👀 I’m interested in being a Full stack developer, but I have doing research about AI, blockchains, etc.
+- 🌱 I’m currently learning TypeScript, Python, Golang, C#, cause everyday I learn new things.
